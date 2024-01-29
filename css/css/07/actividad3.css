@@ -1,0 +1,19 @@
+.fondor{
+    background: red;
+    color: white;
+}
+
+.rojo{
+    color: red;
+}
+.negrita {
+    font-weight: bold;
+    color: red;
+    border-bottom: 1px solid gray;
+}
+
+.cursiva{
+    font-style: italic;
+    color: red;
+    border-bottom: 1px solid gray;
+}

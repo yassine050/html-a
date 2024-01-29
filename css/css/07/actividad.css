@@ -1,0 +1,15 @@
+#kodak {
+    color: khaki;
+    font-weight: bold;
+}
+.resaltado {
+    background-color: blue;
+    color: white;
+}
+.resaltado--verde{
+    background: green;
+    color: white;
+}
+.purpura {
+    color: blueviolet;
+}

@@ -1,0 +1,16 @@
+:root {
+    --color-amarillo: #ECD078;
+    --color-naranja: #D95B43;
+    --color-rojo: #C02942;
+    --fuente-titulo: "Arial";
+    --color-azul: aqua;
+}
+
+h1 {
+    color: var(--color-naranja);
+    font-family: var(--fuente-titulo);
+}
+a { 
+    color: var(--color-azul)
+    
+}

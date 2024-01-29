@@ -1,0 +1,18 @@
+body {
+    color: aqua;
+}
+.rojo {
+    color: red;
+}
+.azul {
+    color: blue;
+}
+.blanco {
+    color: white;
+}
+.negro {
+    color: black;
+}
+.amarillo {
+    color: rgb(181, 181, 70);
+}
